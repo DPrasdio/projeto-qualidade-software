@@ -1,0 +1,19 @@
+# Node / PBL6
+node_modules/
+coverage/
+*.tsbuildinfo
+
+# Python / PBL7 e PBL8
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.playwright/
+
+# Evidências geradas localmente (opcional: remova esta linha se quiser versionar)
+# PBL7/evidencias/*.png
+# PBL8/evidencias/*.png
+
+# OS
+.DS_Store
+Thumbs.db
